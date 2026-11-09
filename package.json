@@ -1,0 +1,13 @@
+{
+  "name": "csm-relay",
+  "version": "1.0.0",
+  "description": "CSM oyini uchun xona serveri (relay)",
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
